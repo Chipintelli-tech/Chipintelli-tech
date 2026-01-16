@@ -9,10 +9,13 @@
     </a>
 </p>
 <p align="center">
-  <!-- GitHub Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img width="400" src="https://streak-stats.demolab.com?user=Chipintelli-tech&theme=transparent&hide_border=true&short_numbers=true" alt="GitHub Streak" title="GitHub Streak" />
-  </a>
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Chipintelli-tech&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
+    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+    <!-- <img width="400" src="https://streak-stats.demolab.com?user=Chipintelli-tech&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
+    <!-- self-host in Vercel -->
+    <img width="400" src="https://github-readme-streak-stats-Chipintelli-tech.vercel.app?user=Chipintelli-tech&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
 </p>
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
