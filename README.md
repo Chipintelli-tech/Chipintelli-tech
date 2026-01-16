@@ -9,9 +9,9 @@
     </a>
 </p>
 <p align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Chipintelli-tech&theme=transparent&hide_border=true&border_radius=4.3" alt="GitHub Streak" />
-    </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Chipintelli-tech&theme=transparent&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+  </a>
 </p>
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
