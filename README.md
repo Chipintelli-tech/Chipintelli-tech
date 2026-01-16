@@ -8,15 +8,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&center=true&lines=Welcome+to+Chipintelli+GitHub+page;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%90%AF%E8%8B%B1%E6%B3%B9%E4%BC%A6GitHub%E4%B8%BB%E9%A1%B5&family=SimHei" alt="Typing SVG" />
     </a>
 </p>
-<p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Chipintelli-tech&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
-    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <!-- <img width="400" src="https://streak-stats.demolab.com?user=Chipintelli-tech&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
-    <!-- self-host in Vercel -->
-    <img width="400" src="https://github-readme-streak-stats-Chipintelli-tech.vercel.app?user=Chipintelli-tech&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Chipintelli-tech&theme=transparent&hide_border=%E9%94%99%E8%AF%AF&short_numbers=%E9%94%99%E8%AF%AF" alt="GitHub Streak" /></a>
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Thanks!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
