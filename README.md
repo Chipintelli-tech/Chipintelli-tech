@@ -9,8 +9,9 @@
     </a>
 </p>
 <p align="center">
+  <!-- GitHub Streak Stats -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Chipintelli-tech&theme=transparent&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+    <img width="400" src="https://streak-stats.demolab.com?user=Chipintelli-tech&theme=transparent&hide_border=true&short_numbers=true" alt="GitHub Streak" title="GitHub Streak" />
   </a>
 </p>
 <p align="center">
