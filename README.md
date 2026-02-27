@@ -12,6 +12,7 @@
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Chipintelli-tech&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
+<img src="https://chipintelli.com/static/images/tu2.webp" alt="方案图">
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=↓&fontSize=90&fontAlign=50&fontAlignY=70&desc=Look!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="↓" title="↓"/>
