@@ -15,5 +15,5 @@
 </p>
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=↓&fontSize=90&fontAlign=50&fontAlignY=70&desc=Look!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="↓" title="↓"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=↓&fontSize=90&fontAlign=50&fontAlignY=70&desc=Explore Our Repositories&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="↓" title="↓"/>
 </p>
